@@ -1,5 +1,6 @@
 # Demo: JavaScript in Action
 
+
 ## Demo Instructions
 
 Students should have completed the code exercise from page 46-48 in the JavaScript & jQuery book. Now it's time to code review it! 
